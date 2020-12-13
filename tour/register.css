@@ -1,0 +1,25 @@
+.w3-round-small{
+    display: flex;
+    align-items: center;
+    background-image: url("https://images.unsplash.com/photo-1557409835-0e90016730f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80");
+    background-size:cover
+}
+.submit button
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #ffc107;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.submit button:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+h1{
+    font-family: cursive;
+}

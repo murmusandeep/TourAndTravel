@@ -1,0 +1,52 @@
+.jumbotron{
+	background-image: url('image/homeback.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+button{
+    width: 332px;
+    height: 50px;
+    font-size: 16px;
+    background: #000;
+    font-weight: lighter;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.container{
+    margin-top: 4%;
+    margin-left: 8%;
+}
+
+.card:hover{
+-webkit-box-shadow: -22px 17px 13px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: -22px 17px 13px -6px rgba(0,0,0,0.75);
+box-shadow: -22px 17px 13px -6px rgba(0,0,0,0.75);
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
